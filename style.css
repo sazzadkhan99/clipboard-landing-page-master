@@ -4,7 +4,7 @@
 :root{
   /*----Typography----*/
   --font: "Bai Jamjuree", sans-serif;
-
+  
   /*----Colors----*/
   --green-500: hsl(171, 66%, 44%);
   --blue-100: hsl(233, 100%, 69%);
@@ -468,3 +468,4 @@ body{
   gap: 1rem;
 }
 }
+
